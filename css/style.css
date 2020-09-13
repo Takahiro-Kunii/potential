@@ -1,0 +1,8 @@
+.button {
+	display:inline; padding: 20px; width: 200px;
+	text-align: center; background-color: #08B;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
