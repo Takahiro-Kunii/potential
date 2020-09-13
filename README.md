@@ -1,7 +1,9 @@
-# potential
-ポテンシャル法
+# ポテンシャル法
 
-2D平面上のポテンシャル値を高低差で表現した。
+障害物を避けながら、指定されたゴール地点に到達するために用いられる手法の１つ。
+参照→[Wiki](https://github.com/Takahiro-Kunii/potential/wiki)
+
+サンプルでは2D平面上のポテンシャル値を高低差で表現している。
 
 ![](https://github.com/Takahiro-Kunii/potential/blob/master/doc/screen-shot-01.png?raw=true)
 
