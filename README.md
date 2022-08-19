@@ -8,3 +8,5 @@
 ![](https://github.com/Takahiro-Kunii/potential/blob/master/doc/screen-shot-01.png?raw=true)
 
 http://tetera.jp/xcc/webgl/potential-map.html
+
+https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/r/rimon_koditschek_potential.pdf
