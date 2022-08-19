@@ -9,4 +9,4 @@
 
 http://tetera.jp/xcc/webgl/potential-map.html
 
-https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/r/rimon_koditschek_potential.pdf
+[Exact robot navigation using artificial potential functions](https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/r/rimon_koditschek_potential.pdf)
